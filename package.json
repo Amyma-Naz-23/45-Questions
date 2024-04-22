@@ -1,0 +1,19 @@
+{
+  "name": "lq01ap-amy-45-ques",
+  "version": "1.0.0",
+  "description": "\"# 45-Questions\"",
+  "main": "main.js",
+  "bin": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}

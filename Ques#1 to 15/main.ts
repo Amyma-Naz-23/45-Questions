@@ -1,3 +1,5 @@
+
+
 //Q#2 Personal Message
 let firstName: string="AMYMA";
 console.log("Hello" ,firstName, "would you like to learn some Python today?");
